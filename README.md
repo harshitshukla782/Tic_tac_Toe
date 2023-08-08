@@ -1,2 +1,2 @@
-# Tic_tac_Toe
-A Kind of computer game 
+# Tic_Tac_Toe
+It is a game
